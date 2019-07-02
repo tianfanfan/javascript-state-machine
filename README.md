@@ -1,4 +1,6 @@
+#[中文文档](README-ch.md)
 # Javascript State Machine
+
 
 [![NPM version](https://badge.fury.io/js/javascript-state-machine.svg)](https://badge.fury.io/js/javascript-state-machine)
 [![Build Status](https://travis-ci.org/jakesgordon/javascript-state-machine.svg?branch=master)](https://travis-ci.org/jakesgordon/javascript-state-machine)
@@ -128,7 +130,7 @@ Read more about
   * [Visualization](docs/visualization.md)
   * [State Machine Factory](docs/state-machine-factory.md)
   * [Upgrading from 2.x](docs/upgrading-from-v2.md)
- 
+
 # Contributing
 
 You can [Contribute](docs/contributing.md) to this project with issues or pull requests.
