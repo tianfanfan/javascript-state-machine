@@ -6,9 +6,9 @@
 一个 JS 有限状态机的库
 
 有限状态机模型要点
+<br>
 ![matter state machine](examples/matter.png)
 
-<br>
 
 ### 用户须知
 
@@ -25,7 +25,7 @@
   <script src='state-machine.js'></script>
 ```
 
-> 下载完（文件来源：） [source](dist/state-machine.js) 或者压缩版 [minified version](dist/state-machine.min.js)
+> 下载完整文件来源：[source](dist/state-machine.js) ，或者压缩版 [minified version](dist/state-machine.min.js)
 
 用 npm 安装:
 
@@ -41,7 +41,7 @@
 
 # Usage
 
-一个状态机可以这样构造出来 (new 操作符) ：
+一个状态机可以这样构造出来（new 操作符） ：
   * init 初始的状态值
   * transitions.name 变化名称
   * transitions.from 变化允许来自的状态值 (可以为数组)
