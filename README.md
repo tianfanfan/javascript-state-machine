@@ -1,4 +1,4 @@
-#[中文文档](README-ch.md)
+#[中文文档](README-zh.md)
 # Javascript State Machine
 
 

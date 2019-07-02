@@ -87,10 +87,10 @@
 
   * `fsm.is(s)`            - 当 status 和 s 相等时候，返回 true，否则 false。
   * `fsm.can(t)`           - 当前状态可运行变化名称 t 时，返回 true，否则 false。
-  * `fsm.cannot(t)`        - return true if transition `t` cannot occur from the current state
-  * `fsm.transitions()`    - return list of transitions that are allowed from the current state
-  * `fsm.allTransitions()` - return list of all possible transitions
-  * `fsm.allStates()`      - return list of all possible states
+  * `fsm.cannot(t)`        - 与 can 相反
+  * `fsm.transitions()`    - 当前状态可以变化的，变化名称列表
+  * `fsm.allTransitions()` - 所有的变化列表
+  * `fsm.allStates()`      - 所有的状态
 
 # Terminology
 
